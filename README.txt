@@ -16,3 +16,6 @@ You can also run other circuits available in the input folder with the run binar
     ./run -f ../input/somecircuit -i binaryinput -n "optional number of threads to garble in parallel"
 
 You can also make your own circuits and try them out as long as they take the same form of circuits in http://www.cs.bris.ac.uk/Research/CryptographySecurity/MPC/
+
+Acknowledgement:
+This work was made possible with by the NPRP award  X-063-1–014 from the Qatar National Research Fund (a member of The Qatar Foundation).
